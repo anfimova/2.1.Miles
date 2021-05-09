@@ -46,3 +46,4 @@ out/
 !**/src/main/**
 !**/src/test/**
 /1.2.MoneyTransfer.iml
+/.idea/
